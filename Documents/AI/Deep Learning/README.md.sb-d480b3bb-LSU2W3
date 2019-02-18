@@ -1,0 +1,74 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fmodern\fcharset0 Courier;\f2\fswiss\fcharset0 Helvetica-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid1\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid101\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid201\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid301\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}
+{\list\listtemplateid5\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{square\}}{\leveltext\leveltemplateid401\'01\uc0\u9642 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid5}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww14680\viewh21000\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf0 #Artificial Neural Networks\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f1\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ======
+\f2\b\fs36 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
+\ls1\ilvl0
+\f0\b0\fs28 \cf0 - Class of machine learning techniques loosely inspired by the human nervous system\
+- They are analogous to support vector machines and other learning techniques\
+- The first type of neural network is a perceptron which is basically a binary classifier, used in handwriting analysis and computer vision.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ##PERCEPTRON
+\f2\b\fs36 \
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f1\b0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 ------
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
+\ls2\ilvl0\cf0 - Conceptionally very smilier to support vector machine classification\
+- Support vector machine is a binary classifiers, they will be given a set of points and will put them into one of 2 categories \
+- A support vector machine finds a \'91Hyperplane\'92 to neatly separate the two categories, and will be used to classify them\
+- Perceptrons are a specific algoritrhm to determine some hyperplane that separates the data, it looks for a way to seperate the point but doesn\'92t care about the hyperplane.\
+- Its said to learn online learning as it consumes one datapoint at a time, the training data is taken one datapoint at a time\
+- A new datapoint may come in and the hyperplane is moved accordingly . Th plane is moved in a way such that the iteration error is reduced\
+- It will converge to a particular solution in a finite number of steps only if the data is linearly separated\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 #Computer Vision\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f1\fs24 \cf2 \expnd0\expndtw0\kerning0
+======
+\f2\b\fs36 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
+\ls3\ilvl0
+\f0\b0\fs28 \cf0 - Science of teaching a computer how to see, identify and extract information from images and videos and take decisions based on this info\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ##HANDWRITEN DIGIT RECOGNITION
+\f2\b\fs36 \
+\pard\pardeftab720\sl280\partightenfactor0
+\ls4\ilvl0
+\f1\b0\fs24 \cf2 \expnd0\expndtw0\kerning0
+------
+\f0\fs28 \cf0 \kerning1\expnd0\expndtw0 \
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
+\ls4\ilvl0\cf0 - Handwritten digit recognition is what is started with normally, as the applications can be quite security heavy so high accuracy is needed\
+- These can be seen as classification problems, given a digit you need to classify it into a category \
+- MNIST is a standard database of hand-written digit images and is used to train a classifier, images come with a label. There is also 10,000 images used to test the classifier\
+1. First the images need to be represented as a feature vector (a tuple of numbers)\
+2. Then you feed these feature vectors along with their labels, so the classification algorithm will learn\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 ### Representing Images as Tuples\
+\pard\tx220\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\li720\fi-720\pardirnatural\partightenfactor0
+\ls5\ilvl0\cf0 - The images are made of pixels, a pixel can be represented as a tuple, it will be (x-coor, y-coor, colour) , the colour can be represented as a tuple again (red, blue, green) , 3 for RGB and 1 for greyscale is the amount of numbers needed to represent the colour (channels)\
+- A greyscale image can be represented by a 2D array where the position is determined by the co-ordinates and the colour is on the array, this can be used directly as a feature vector\
+- If the image is full colour it will contain many redundant pixels, you could blur this and still reach a good conclusion (Dimensionality reduction)\
+- Using feature extraction techniques a small number of features can be used here, some may look for the edges and some may blur the image, recently unsupervised feature learning has been used to allow the learning algorithm to identify the relevant features without human intervention\
+- A simple method will be divide the image into a number of zones, count the number of black pixels and this will reduce the number of pixels. \
+}
